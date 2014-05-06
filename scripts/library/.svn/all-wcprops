@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/repo/!svn/ver/3/library
+END
+reserve.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/repo/!svn/ver/3/library/reserve.c
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/repo/!svn/ver/3/library/Makefile
+END
+check.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/repo/!svn/ver/3/library/check.c
+END
+ticket.h
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/repo/!svn/ver/3/library/ticket.h
+END

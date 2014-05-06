@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 20
+/svn/repo/!svn/ver/1
+END
+lang.sh
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/repo/!svn/ver/2/lang.sh
+END
+pro_calendar.dat
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/repo/!svn/ver/2/pro_calendar.dat
+END
+project_kalendar.sh
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/repo/!svn/ver/2/project_kalendar.sh
+END
+add.sh
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/repo/!svn/ver/2/add.sh
+END
